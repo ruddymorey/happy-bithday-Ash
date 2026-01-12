@@ -141,3 +141,6 @@ body{
     align-items: center;
     gap: 1.5rem;
 }
+audio {
+    filter: hue-rotate(260deg) brightness(1.2);
+}
